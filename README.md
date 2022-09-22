@@ -1,2 +1,1 @@
-# BolumSonuAlistirmasi
-Bölüm Sonu Alıştırması Öğrendiklerimizi Tekrar Ediyoruz.
+Readme de hazır artık
